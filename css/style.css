@@ -5,9 +5,18 @@ body {
 h1,
 h2 {
   font-weight: 500;
+  border-bottom: grey 5px;
 }
 
 article,
 p {
   font-weight: 400;
+}
+
+b:nth-of-type(1) {
+  color: #35afd1;
+}
+
+b:nth-of-type(2) {
+  color: #00c8ff;
 }
