@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2 {
+  font-weight: 500;
+}
+
+article,
+p {
+  font-weight: 400;
+}
